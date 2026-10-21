@@ -7,3 +7,6 @@
 [submodule "assignment3-scaling"]
 	path = assignment3-scaling
 	url = git@github.com:TingxunShi/cs336-2026spring-assignment3-scaling.git
+[submodule "assignment4-data"]
+	path = assignment4-data
+	url = git@github.com:TingxunShi/cs336-2026spring-assignment4-data.git
