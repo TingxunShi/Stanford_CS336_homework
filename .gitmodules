@@ -1,0 +1,9 @@
+[submodule "assignment1-basics"]
+	path = assignment1-basics
+	url = git@github.com:TingxunShi/cs336-2025fall-assignment1-basics.git
+[submodule "assignment2-systems"]
+	path = assignment2-systems
+	url = git@github.com:TingxunShi/cs336-2025fall-assignment2-systems.git
+[submodule "assignment3-scaling"]
+	path = assignment3-scaling
+	url = git@github.com:TingxunShi/cs336-2026spring-assignment3-scaling.git
